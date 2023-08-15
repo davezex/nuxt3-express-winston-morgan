@@ -1,0 +1,12 @@
+GET /idk 200 - - 1.907 ms
+GET /idk 200 - - 1.225 ms
+GET /idk 200 - - 1.577 ms
+GET /idk 200 - - 1.002 ms
+GET /idk 200 - - 0.596 ms
+GET /idk 200 - - 0.407 ms
+GET /idk 200 - - 1.818 ms
+GET /idk 200 - - 1.027 ms
+GET /idk 200 - - 1.164 ms
+POST /idk 200 - - 1.032 ms
+POST /idk 200 - - 0.937 ms
+PUT /idk 200 - - 0.809 ms
